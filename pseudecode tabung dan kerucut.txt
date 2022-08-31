@@ -1,0 +1,50 @@
+Tentukan algoritma dan pseudocode volume TABUNG ( jari-jari = 3, tinggi = 5)
+
+				Rumus: πr²t
+
+ALGORITMA
+
+V = ?		r = 3²		t = 5
+
+= 3,14 * 32² * 5
+
+= 141,3
+
+Psedocode
+
+Volume = ?	jari-jari = 3²		lebar = 5
+
+jari-jari ← 3²
+
+lebar ← 5
+
+volume = πr²t
+
+= 141,3
+
+
+
+
+
+tentukan algoritma dan pseudocode volume KERUCUT ( diameter = 5,  tinggi = 5)
+				RUMUS:V= 1/3 × π × r × r × t r = diameter dibagi 2
+
+ALGORITMA
+
+diameter = 2,5² ( 5 )			tinggi = 5
+
+= 1/3 * 3,14 * 2,5² * 5
+
+= 157/6
+
+psedocode
+
+Volume = ?	diameter = 2,5²	( 5 )	tinggi = 5
+
+diameter ← 2,5²
+
+tinggi ← 5
+
+volume = 1/3 * 3,14 * 2,5² * 5
+
+157/6

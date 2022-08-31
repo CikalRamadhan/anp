@@ -1,0 +1,48 @@
+Fundamental dari Pemecahan Masalah Algoritma
+
+Diketahui sebuah segitiga sebagai berikut;
+
+Alas = 25	Tinggi = 30
+
+Algoritma hitung sebagai segitiga tersebut
+
+ALGORITMA
+
+step 1, mendeklarasikan luas, alas dan tinggi
+step 2, masukan alas = 25 dan tinggi = 30
+step 3, menghitung luas = 1/2 alas * tinggi
+step 4, menampilkan luas
+
+Pseudocode
+
+var luas, alas, tinggi
+alas ← 25
+tinggi ← 30
+luas = 1/2 * alas * tinggi
+write (luas)
+
+Tentukan algoritma dan pseudocode luas jajar genjang
+
+ALGORITMA
+
+( panjang = 5, Lebar = 3)
+					RUMUS:L = A*T
+
+Luas = ?		Panjang = 5		Lebar = 3
+
+5*3 = 15
+
+15
+
+Psedocode
+
+luas = ?		panjang = 5	lebar = 3
+
+panjang ← 5
+
+tinggi ← 3
+
+luas = a*t
+
+15
+

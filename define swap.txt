@@ -1,0 +1,19 @@
+fungsi untuk menukar dua variabel x dan y
+
+define swap (x, y)
+
+buffer = x, masukan nilai x ke buffer
+x = y, masukan nilai y ke x
+y = buffer, masukan nilai buffer ke y	perpindahan nya dari kanan ke kiri
+
+piring 1 = manggis
+piring 2 = pisang
+piring 3 = null
+
+p1 = p2		manggis dari piring 1 pindah ke piring 2
+p2 = p3		manggis dan pisang dari piring 2 ke piring 3
+p3 = p1		manggis dan pisang dari piring 3 ke piring 1
+
+piring 1 = manggis dan pisang
+piring 2 dan 3 = kosong
+	
